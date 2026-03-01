@@ -2,7 +2,7 @@
 
 ### A passionate Frontend Web Developer
 
-- 🔭 I’m currently working on **[Project Name]**
+- 🔭 I’m currently working on a project **Cryptexx - Real-Time Market Tracking Website  **
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 📫 How to reach me **archismandebnath27@gmail.com**
 
